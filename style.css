@@ -1,0 +1,14 @@
+body {
+    background-color: rgb(230, 240, 250);
+}
+#show_sketch 
+{
+    float: right;
+    margin-right:20;
+}
+#qd{
+  padding-left:100px;
+}
+canvas {
+  border:3px ridge rgb(253, 214, 142);
+}
